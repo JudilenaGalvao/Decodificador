@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Aluno\Documents\Decodificador\simulation\qsim
+vExcesso3TOBCD
+Z1 IYce:o`=>kL<i;n1]IHCGN0
+Z2 V_<l[4>K=l1@d;mfL=44df1
+Z3 dC:\Users\Aluno\Documents\Decodificador\simulation\qsim
+Z4 w1684349556
+Z5 8Excesso3TOBCD.vo
+Z6 FExcesso3TOBCD.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+Z9 n@excesso3@t@o@b@c@d
+!i10b 1
+Z10 !s100 T8BH4i2@f6[[9SE]6g49l1
+!s85 0
+Z11 !s108 1684349559.469000
+Z12 !s107 Excesso3TOBCD.vo|
+Z13 !s90 -work|work|Excesso3TOBCD.vo|
+!s101 -O0
+vExcesso3TOBCD_vlg_check_tst
+!i10b 1
+!s100 BCXS3@M6e;nWC@K?J::3D3
+IcG3ZLe4ZMM<>N7B[8=8352
+Vmk9<^2YlJ7j0YZKaO0lfk0
+R3
+Z14 w1684349554
+Z15 8Excesso3TOBCD.vt
+Z16 FExcesso3TOBCD.vt
+L0 57
+R7
+r1
+!s85 0
+31
+Z17 !s108 1684349559.676000
+Z18 !s107 Excesso3TOBCD.vt|
+Z19 !s90 -work|work|Excesso3TOBCD.vt|
+!s101 -O0
+R8
+n@excesso3@t@o@b@c@d_vlg_check_tst
+vExcesso3TOBCD_vlg_sample_tst
+!i10b 1
+!s100 D[8ZH8Uzhj@2NB@[=S2[i0
+IPHNGmI@PJWieTocfG3GRZ0
+V5HN=ACG4coB0G`QiMYE]N3
+R3
+R14
+R15
+R16
+L0 29
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R8
+n@excesso3@t@o@b@c@d_vlg_sample_tst
+vExcesso3TOBCD_vlg_vec_tst
+!i10b 1
+!s100 6nPK67`YYV6F2g?oJ[oIm1
+IXIe]HPE4<UVDzlDEVzlBQ3
+VIN=IBVV@45TIlCo^=iJ0;1
+R3
+R14
+R15
+R16
+L0 205
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R8
+n@excesso3@t@o@b@c@d_vlg_vec_tst
